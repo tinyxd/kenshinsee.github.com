@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://kenshinsee.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: tests | My Octopress Blog]]></title>
+  <link href="http://kenshinsee.github.com/blog/categories/tests/atom.xml" rel="self"/>
   <link href="http://kenshinsee.github.com/"/>
   <updated>2012-07-01T18:48:45+08:00</updated>
   <id>http://kenshinsee.github.com/</id>
@@ -27,7 +27,7 @@ the aid of their country. This is just a
 regular paragraph.</p>
 
 <p>The quick brown fox jumped over the lazy
-dog&#8217;s back.</p>
+dog's back.</p>
 
 <h3>Header 3</h3>
 
@@ -43,7 +43,7 @@ Some of these words <em>are emphasized also</em>.</p>
 <p>Use two asterisks for <strong>strong emphasis</strong>.
 Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 
-<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; lists &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<p>----------------- lists -----------------------</p>
 
 <p>Unordered (bulleted) lists use asterisks, pluses, and hyphens (*, +, and -) as list markers. These three markers are interchangable;</p>
 
@@ -83,7 +83,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 </ol>
 
 
-<p>If you put blank lines between items, you&#8217;ll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:</p>
+<p>If you put blank lines between items, you'll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:</p>
 
 <ul>
 <li><p>A list item.</p>
@@ -93,7 +93,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 </ul>
 
 
-<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; links &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<p>----------------- links -----------------------</p>
 
 <p>Markdown supports two styles for creating links: inline and reference. With both styles, you use square brackets to delimit the text you want to turn into a link.</p>
 
@@ -113,7 +113,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 
 <p>I start my morning with a cup of coffee and <a href="http://www.nytimes.com/">The New York Times</a>.</p>
 
-<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; images &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<p>----------------- images -----------------------</p>
 ]]></content>
   </entry>
   
