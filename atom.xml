@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kenshinsee.github.com/atom.xml" rel="self"/>
   <link href="http://kenshinsee.github.com/"/>
-  <updated>2012-07-01T18:48:45+08:00</updated>
+  <updated>2012-07-01T18:51:40+08:00</updated>
   <id>http://kenshinsee.github.com/</id>
   <author>
     <name><![CDATA[Rounee]]></name>
@@ -45,7 +45,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; lists &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
 
-<p>Unordered (bulleted) lists use asterisks, pluses, and hyphens (*, +, and -) as list markers. These three markers are interchangable;</p>
+<h5>Unordered (bulleted) lists use asterisks, pluses, and hyphens (*, +, and -) as list markers. These three markers are interchangable;</h5>
 
 <p>this:</p>
 
@@ -74,7 +74,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 </ul>
 
 
-<p>Ordered (numbered) lists use regular numbers, followed by periods, as list markers:</p>
+<h5>Ordered (numbered) lists use regular numbers, followed by periods, as list markers:</h5>
 
 <ol>
 <li>Red</li>
@@ -83,7 +83,7 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 </ol>
 
 
-<p>If you put blank lines between items, you&#8217;ll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:</p>
+<h5>If you put blank lines between items, you&#8217;ll get <p> tags for the list item text. You can create multi-paragraph list items by indenting the paragraphs by 4 spaces or 1 tab:</h5>
 
 <ul>
 <li><p>A list item.</p>
@@ -97,21 +97,21 @@ Or, if you prefer, <strong>use two underscores instead</strong>.</p>
 
 <p>Markdown supports two styles for creating links: inline and reference. With both styles, you use square brackets to delimit the text you want to turn into a link.</p>
 
-<p>Inline-style links use parentheses immediately after the link text. For example:</p>
+<h5>Inline-style links use parentheses immediately after the link text. For example:</h5>
 
 <p>This is a <a href="http://weibo.com/">link to weibo</a>.</p>
 
-<p>Optionally, you may include a title attribute in the parentheses:</p>
+<h5>Optionally, you may include a title attribute in the parentheses:</h5>
 
 <p>This is a <a href="http://weibo.com/" title="Hey, you see, I have a title.">link to weibo</a>.</p>
 
 <p>Reference-style links allow you to refer to your links by names, which you define elsewhere in your document:</p>
 
-<p>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</p>
+<h5>I get 10 times more traffic from <a href="http://google.com/" title="Google">Google</a> than from <a href="http://search.yahoo.com/" title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/" title="MSN Search">MSN</a>.</h5>
 
 <p>The title attribute is optional. Link names may contain letters, numbers and spaces, but are not case sensitive:</p>
 
-<p>I start my morning with a cup of coffee and <a href="http://www.nytimes.com/">The New York Times</a>.</p>
+<h5>I start my morning with a cup of coffee and <a href="http://www.nytimes.com/">The New York Times</a>.</h5>
 
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8211; images &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
 ]]></content>
